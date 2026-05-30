@@ -1,3 +1,5 @@
+<img width="24" height="24" alt="24px" src="https://github.com/user-attachments/assets/4baf2db9-90c5-47ad-9c06-2045670b59d9" />
+<img width="40" height="40" alt="openAiLight" src="https://github.com/user-attachments/assets/0d581fd0-f532-4d29-b6ad-5ba9c385b342" />
 ---
 title: Slack Trigger node documentation
 description: Learn how to use the Slack Trigger node in n8n. Follow technical documentation to integrate Slack Trigger node into your workflows.
